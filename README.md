@@ -1,5 +1,5 @@
 # Football-Blog
-Footbal-Blog is a blog dedidcated for the most hot news from the world of fooball. For the PMS website, I used Python for all functionalities, and the entire application was written in PyCharm.
+Footbal-Blog is a very simple blog dedidcated for the most hot news from the world of fooball. For the PMS website, I used Python for all functionalities, and the entire application was written in PyCharm.
 
 Also, during the realization of the project, I used the Djnago web framework to develop the Football-Blog.
 
